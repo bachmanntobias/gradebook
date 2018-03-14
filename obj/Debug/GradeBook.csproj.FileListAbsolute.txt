@@ -1,0 +1,7 @@
+c:\users\bachmann\source\repos\GradeBook\GradeBook\obj\Debug\GradeBook.csprojResolveAssemblyReference.cache
+c:\users\bachmann\source\repos\GradeBook\GradeBook\obj\Debug\GradeBook.csproj.CoreCompileInputs.cache
+c:\users\bachmann\source\repos\GradeBook\GradeBook\bin\Debug\GradeBook.exe.config
+c:\users\bachmann\source\repos\GradeBook\GradeBook\bin\Debug\GradeBook.exe
+c:\users\bachmann\source\repos\GradeBook\GradeBook\bin\Debug\GradeBook.pdb
+c:\users\bachmann\source\repos\GradeBook\GradeBook\obj\Debug\GradeBook.exe
+c:\users\bachmann\source\repos\GradeBook\GradeBook\obj\Debug\GradeBook.pdb
