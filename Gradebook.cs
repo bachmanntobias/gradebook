@@ -16,7 +16,7 @@ namespace Grades
         {
             GradeStatistics stats = new GradeStatistics();
 
-            float sum = 0;
+            float sum = 0;  
             foreach (float grade in grades)
             {
                 stats.HighestGrade = Math.Max(grade, stats.HighestGrade);
@@ -34,7 +34,9 @@ namespace Grades
         {
             grades.Add(grade);
         }
+        public String Name;
+
         private List<float> grades; 
     } 
-    //static can be accessed
+   
 }
