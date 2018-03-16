@@ -13,10 +13,9 @@ namespace Grades
             grades = new List<float>();
         }
 
-        public GradeStatistics ComputeStatistics
+        public static GradeStatistics ComputeStatistics()
         {
-            get
-            {
+            
                 GradeStatistics stats = new GradeStatistics();
 
                 float sum = 0;
@@ -31,7 +30,7 @@ namespace Grades
                 stats.AverageGrade = sum / grades.Count;
 
                 return stats;
-            }
+            
         }
 
         public void AddGrade(float grade)
